@@ -2,7 +2,7 @@
 
 I'm Juan Pablo Orrego, a Full Stack developer from Santiago, Chile. 
 
-`React` `Typescript` `CSS` `Node.js` `Express`
+`React/React Native` `Node.js` `Javascript/Typescript` `CSS`  `Express` `PostgreSQL` `MongoDB`
 
 ## Recent Projects
 
