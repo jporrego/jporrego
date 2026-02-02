@@ -7,16 +7,19 @@ I'm Juan Pablo Orrego, a Full Stack developer from Santiago, Chile.
 ## Recent Projects
 
 <p align="left">
-  <img
-    src="https://raw.githubusercontent.com/jporrego/color-mural/main/public/images/logo.png"
-    width="80"
-    alt="Color Mural logo"
-  />
+  <a href="https://github.com/jporrego/color-mural">
+    <img
+      src="https://raw.githubusercontent.com/jporrego/color-mural/main/public/images/logo.png"
+      width="80"
+      alt="Color Mural logo"
+    />
+  </a>
   <br />
   <a href="https://github.com/jporrego/color-mural">
     Color Mural
   </a>
 </p>
+
 
 
 
